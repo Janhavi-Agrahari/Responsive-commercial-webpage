@@ -1,4 +1,8 @@
+
+![Uploading image.png…]()
+
 # Responsive-commercial-website
+
 Coffee Shop Website
 Welcome to the Coffee Shop Website! This project aims to create a responsive and interactive webpage for a fictional coffee shop. The webpage is built using HTML, CSS, and JavaScript, featuring sections for Home, About, Menu, Product, Reviews, Contact, and Blogs.
 
