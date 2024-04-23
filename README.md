@@ -1,5 +1,5 @@
 
-![Uploading image.png…]()
+
 
 # Responsive-commercial-website
 
